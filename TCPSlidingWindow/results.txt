@@ -1,0 +1,15 @@
+10 sanity check: transfer single byte succeeded!
+10 transfer 50K succeeded!
+10 utilize empty link succeeded! sent in 16.2024450302124 seconds
+10 drop rate=0.05 succeeded! sent 1MB in 2.58734917640686 seconds.
+0 drop rate=0.25 failed: received 1MB in 16.9029059410095 seconds.(should be less than 10s)
+10 quick convergence succeeded!
+10 TCP friendliness succeeded! (TCP got 35.1 Mbps)
+10 TCP friendliness with 1% loss succeeded! (TCP got 60.2 Mbps)
+10 competition vs TCP succeeded!
+----------------
+Total score: 90
+
+svn rev: 7913
+
+12:12 PM on April 30, 2017

@@ -1,0 +1,17 @@
+10 LS send message over 3 node topology succeeded!
+10 LS shortest path in example topology succeeded!
+10 LS shortest path in 8x8 grid topology succeeded!
+10 LS switch to better path when available succeeded!
+10 LS fall back to worse path succeeded!
+10 LS report unreachable after partition succeeded!
+10 LS heal after partition succeeded!
+0 lstest8.pl timed out.
+----------------
+Total score: 90
+
+svn rev: 5350
+
+09:33 PM on April 05, 2017
+svn rev: 5739
+
+08:29 PM on April 06, 2017
